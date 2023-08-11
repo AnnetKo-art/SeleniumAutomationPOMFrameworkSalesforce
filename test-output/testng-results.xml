@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-11T14:17:15 CDT" name="Default suite" finished-at="2023-08-11T14:19:07 CDT" duration-ms="111111">
+    <groups>
+    </groups>
+    <test started-at="2023-08-11T14:17:15 CDT" name="Default test" finished-at="2023-08-11T14:19:07 CDT" duration-ms="111111">
+      <class name="com.automation.tests.AutomationScripts">
+        <test-method is-config="true" signature="setUpForBeforeTest()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:15 CDT" name="setUpForBeforeTest" finished-at="2023-08-11T14:17:16 CDT" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForBeforeTest -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:16 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:17:19 CDT" duration-ms="3664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="login_to_salesforce_login_success_testscript()[pri:1, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:19 CDT" name="login_to_salesforce_login_success_testscript" finished-at="2023-08-11T14:17:24 CDT" duration-ms="4422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_to_salesforce_login_success_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:24 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:17:24 CDT" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:24 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:17:26 CDT" duration-ms="1741" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="login_to_salesforce_no_password_error_message_check_testscript()[pri:2, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:26 CDT" name="login_to_salesforce_no_password_error_message_check_testscript" finished-at="2023-08-11T14:17:26 CDT" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_to_salesforce_no_password_error_message_check_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:26 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:17:27 CDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:27 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:17:28 CDT" duration-ms="1668" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="create_new_contact_to_salesforce_testscript()[pri:3, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:28 CDT" name="create_new_contact_to_salesforce_testscript" finished-at="2023-08-11T14:17:38 CDT" duration-ms="10031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_new_contact_to_salesforce_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:38 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:17:39 CDT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:39 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:17:40 CDT" duration-ms="1960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="create_new_view_in_contacts_to_salesforce_testscript()[pri:4, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:40 CDT" name="create_new_view_in_contacts_to_salesforce_testscript" finished-at="2023-08-11T14:17:49 CDT" duration-ms="8504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_new_view_in_contacts_to_salesforce_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:49 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:17:49 CDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:49 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:17:51 CDT" duration-ms="1828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="cancelClickInCreateNewContacts_in_contacts_to_salesforce_testscript()[pri:5, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:17:51 CDT" name="cancelClickInCreateNewContacts_in_contacts_to_salesforce_testscript" finished-at="2023-08-11T14:18:00 CDT" duration-ms="9440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelClickInCreateNewContacts_in_contacts_to_salesforce_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:00 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:18:01 CDT" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:01 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:18:02 CDT" duration-ms="1773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="recentlyCreatedContactCheck_to_salesforce_testscript()[pri:6, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:02 CDT" name="recentlyCreatedContactCheck_to_salesforce_testscript" finished-at="2023-08-11T14:18:10 CDT" duration-ms="7516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recentlyCreatedContactCheck_to_salesforce_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:10 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:18:10 CDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:10 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:18:12 CDT" duration-ms="1629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="phoneAddInUserProfilePage_to_salesforce_testscript()[pri:7, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:12 CDT" name="phoneAddInUserProfilePage_to_salesforce_testscript" finished-at="2023-08-11T14:18:48 CDT" duration-ms="36160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneAddInUserProfilePage_to_salesforce_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:48 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:18:48 CDT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:48 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-11T14:18:50 CDT" duration-ms="1665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="myProfilePageOverviewEditLastName_to_salesforce_testscript()[pri:8, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:18:50 CDT" name="myProfilePageOverviewEditLastName_to_salesforce_testscript" finished-at="2023-08-11T14:19:06 CDT" duration-ms="16630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myProfilePageOverviewEditLastName_to_salesforce_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@7d4f9aae]" started-at="2023-08-11T14:19:06 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-11T14:19:07 CDT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.automation.tests.AutomationScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

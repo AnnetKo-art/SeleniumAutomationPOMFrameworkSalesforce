@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 34.545 s <<< FAILURE! - in TestSuite
+error_login_firebase_testscript(com.automation.tests.AutomationScripts)  Time elapsed: 7.882 s  <<< FAILURE!
+java.lang.AssertionError: expected [Error : There is no user record corresponding to this identifier. The user may have been deleted.] but found [Error : There is no user record corresponding to this identifier. The user may have been deleted.dd]
+	at com.automation.tests.AutomationScripts.error_login_firebase_testscript(AutomationScripts.java:91)
+
